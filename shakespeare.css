@@ -1,5 +1,42 @@
-h5{color:black; font:bold}
-#POLIXENES{color: blue}
-#LEONTES{color:blueviolet}
-p{color: black}
-#directions{color: red; background-color: blanchedalmond;}
+.speech
+{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+
+.stage-direction
+{
+    font-size:large;
+    font-family: fantasy;
+    background-color: rosybrown;
+    color:black;
+}
+
+.name
+{
+    font-family: sans-serif;
+    font-size: large;
+    color:black;
+}
+
+.stage-direction:hover
+{
+    background-color: cadetblue;
+    color: crimson;
+}
+
+.polixenes
+{
+    color: salmon;
+}
+
+.leontes
+{
+    color: sienna;
+}
+
+.hermione
+{
+    color:teal;
+}
