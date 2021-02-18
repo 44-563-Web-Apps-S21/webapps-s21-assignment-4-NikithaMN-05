@@ -54,3 +54,18 @@ table{
     border-style: dotted;
     text-shadow: 0 3px 3px teal;
 }
+ul.navBar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(162, 221, 221);
+}
